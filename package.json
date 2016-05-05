@@ -1,0 +1,26 @@
+{
+  "name": "pig",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "angular2": "^2.0.0-beta.17",
+    "bootstrap-sass": "^3.3.6",
+    "browser-sync": "^2.12.5",
+    "gulp": "^3.9.1",
+    "gulp-jspm-build": "0.0.15",
+    "gulp-sass": "^2.3.1",
+    "gulp-sourcemaps": "^2.0.0-alpha",
+    "gulp-typescript": "^2.13.0",
+    "jquery": "^2.2.3",
+    "lodash": "^4.11.2",
+    "rxjs": "^5.0.0-beta.7",
+    "systemjs": "^0.19.27",
+    "typings": "^0.8.1"
+  }
+}
