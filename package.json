@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Lokesh Rajendran",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "angular2": "^2.0.0-beta.17",
     "bootstrap-sass": "^3.3.6",
